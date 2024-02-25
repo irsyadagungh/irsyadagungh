@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Irsyad Agung Hidayatullah</h1>
-<h3 align="center">I am a passionate junior developer from Indonesia, focusing on frontend development and user interface/user experience (UI/UX) design for both web and mobile applications. I believe that the combination of technical coding skills and sensitivity to design is the key to creating exceptional user experiences.</h3>
+<h1 align="left">Hi 👋, I'm Irsyad Agung Hidayatullah</h1>
+<h3 align="left">I am a passionate junior developer from Indonesia, focusing on frontend development and user interface/user experience (UI/UX) design for both web and mobile applications. I believe that the combination of technical coding skills and sensitivity to design is the key to creating exceptional user experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irsyadagungh&label=Profile%20views&color=22a554&style=flat" alt="irsyadagungh" /> </p>
 
